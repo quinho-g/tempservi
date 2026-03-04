@@ -16,7 +16,7 @@ sem a altorização do altor.-- */
 :root {
     --letra: 'Rubik', Arial, Helvetica, sans-serif;
     --title: 'Dancing Script', Arial, Helvetica, sans-serif;
-    --cor1: #ffd700;
+    --cor1: #9000ff;
     --cor2: rgb(67, 65, 0);
     --fundo: rgb(232, 232, 232);
 }
@@ -1141,6 +1141,7 @@ section {
 
 
 }
+
 
 
 
