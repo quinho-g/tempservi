@@ -215,6 +215,7 @@ color: white;
         gap: 1rem;
         background-color: var(--cor1);
         border-radius: 0.5rem;
+        color: white;
         h3 {
             color: white;
         }
